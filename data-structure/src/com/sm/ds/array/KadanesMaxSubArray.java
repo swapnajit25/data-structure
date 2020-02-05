@@ -3,7 +3,7 @@ package com.sm.ds.array;
 /**
  * Kadane's algorithm is used to find maximum sum sub-array 
  * in a few negative value array.
- * Time complexity O(n)  
+ * Time complexity is O(n)  
  *
  */
 public class KadanesMaxSubArray
